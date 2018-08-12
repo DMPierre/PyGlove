@@ -1,5 +1,10 @@
-#### PyGlove: An easy to use python wrapper for the GloVe C-library.
+## PyGlove: An easy to use python wrapper for the GloVe C-library.
 
+*Beforehand, compile the GloVe library by running in the* ```./Glove``` *folder:*
+
+```
+$ make
+```
 
 The python wrapper accepts all of the used GloVe hyperparameters.
 
